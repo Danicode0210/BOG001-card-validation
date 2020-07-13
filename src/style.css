@@ -1,0 +1,210 @@
+#vista1, #vista2,#vista3 {display:none}
+body{
+    background-image: url(images/Fondo_pagina.jpg);
+      background-size:cover;
+      margin:0;
+      font-family: 'Piedra', cursive;
+}
+#vista3 
+{ color:pink;
+  text-align:center;
+  font-family: 'Piedra', cursive;
+  font-size: 40px;
+  width:1100px;
+  left:110px;
+  top:300px;
+  position:absolute;
+}
+header
+{
+  color:pink;
+  text-align:center;
+  font-family: 'Piedra', cursive;
+  font-size: 60px;
+    width:100%;
+     height:60px;
+    padding:30px;
+}
+footer 
+{
+  font-size: 30px; 
+      color:black;
+        position:absolute; 
+          top:840px;
+           width:100%;
+           background:#7A7DAF ;
+           height:40px;
+            text-align:center;
+            padding:30px;
+
+}
+
+.boleta1
+{
+   margin: 20px;
+     border-radius: 8px; 
+      padding: 15px;
+        border:5px dotted;
+        width: 600px;
+          color: aliceblue;
+          position:absolute;
+            left:150px;
+            top:475px;
+
+}
+
+.boleta2
+{
+   margin: 20px;
+     border-radius: 8px; 
+      padding: 15px;
+        border:5px dotted;
+        width: 600px;
+          color: aliceblue;
+          position:absolute;
+            left:150px;
+            top:160px;
+            }
+
+.boton1, .boton2, .boton3,.boton4, .boton5
+
+{
+ width: 150px;
+    min-height: 30px;padding:10px;
+      font-size: 25px;
+       border-radius: 20px;
+          font-weight:bold;
+          background:rgb(27, 31, 110);
+          
+}
+
+
+.boton1
+{
+  position:absolute;
+    bottom:250px;
+    cursor:pointer;
+     color:white;
+      left:850px;
+}
+.boton2
+{
+  position:absolute;
+  left:850px;
+     bottom:-50px;
+      cursor:pointer;
+     color:white;
+}
+.boton4
+{
+position:absolute;
+  top:720px;
+    left:650px;
+     cursor: pointer;
+     color:white;
+}
+
+.boton3
+{position:absolute;
+  top:720px;
+    left:550px;
+     cursor:pointer;
+     color:white;}
+
+.boton5
+{
+  position:absolute;
+  top:720px;
+    left:450px;
+     cursor:pointer;
+     color:white;
+}
+
+
+.tarjeta1,.tarjeta2
+ {
+    width:700px;
+      height:450px; 
+        border-radius: 20px;
+          position:absolute;
+            left:300px;
+              top:250px;
+}
+
+h2 {
+
+text-align:center;
+font-family: "Arial Black"; 
+font-size: 40px; 
+color:rgb(233, 200, 218); 
+height:50px; 
+padding:10px;
+}
+
+p {text-align:center;
+  font-family:Arial, Helvetica, sans-serif; 
+  font-size: 25px; color:aliceblue;
+  width:820px;
+  position:absolute; 
+  left: 200px; 
+  display:block;}
+
+#inputNumero 
+{
+  position:absolute; 
+  left:340px;width: 350px;
+  height: 10px;padding: 15px;
+  top:496px;
+  font-size: 20px
+}
+
+#inputNombre
+{position:absolute; 
+  left:340px;width: 350px;
+  height: 10px;padding: 15px;
+  top:590px;
+  font-size: 20px;
+  }
+
+ .fechaExpira label
+{
+  position:absolute; 
+  left:830px;width: 100px;
+  height: 10px;padding: 15px;
+  top:560px; font-size: 15px;
+}
+#selectMes
+{
+  position:absolute; 
+  left:825px;width: 55px;
+  height: 30px;
+  top:600px;
+  font-size: 15px;
+  
+  }
+
+ #selectYear
+  {
+    position:absolute; 
+  left:895px;width: 60px;
+  height:30px;
+  top:600px;
+   font-size: 15px;
+  }
+
+.codigoCCV label 
+{
+position:absolute; 
+  left:770px; top:440px;
+  font-family:Arial;
+  font-size: 20px; 
+}
+
+#inputCVV 
+{
+  position:absolute; 
+  left:770px; top:470px;
+  font-family:Arial;
+  font-size: 20px; 
+  width: 80px;
+}

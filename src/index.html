@@ -1,14 +1,79 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
-  </body>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Yourticket</title>
+      <link href="style.css" rel="stylesheet" type="text/css" />
+   </head>
+   <body>
+      <div id="vista0">
+         <div>
+            <header>
+               Yourticket.com 
+            </header>
+            <img src="images/Boleta_1.jpg" class="boleta1" alt="boleta1">
+             <input type="button" class="boton1" id="Comprar1" value="Comprar" > 
+         </div>
+         <div> 
+            <img src="images/Boleta_2.jpg" class="boleta2" alt="boleta2"> 
+            <input type="submit" class="boton2" id="Comprar" value="Comprar"> 
+         </div>
+      </div>
+      <div id="vista1">
+         <h2>Valide su tarjeta</h2>
+         <p>Por favor llene los espacios correspondientes de acuerdo a los datos de su tarjeta de credito.</p>
+         <img src="images/tarjeta1.png" class="tarjeta1" alt="tarjeta1">
+         <input type="submit" class="boton3" id="validacion"  value="Continuar">
+         <form name="formtarjeta" action="" id="cc" class="formulario-tarjeta">
+            <div class="datosTarjeta">
+               <input name ="number" pattern="[0-9]+" placeholder="Numero de su tarjeta"  id="inputNumero" maxlength="19" autocomplete="off" required>
+            </div>
+            <div class="datosTarjeta">
+               <input name ="text" placeholder="Ingrese su nombre" id="inputNombre" maxlength="19" autocomplete="off" required>
+               <div class="flexbox">
+                  <div class="fechaExpira">
+                     <label for="selectMes">VALID THRU</label>
+                     <div class="flexbox">
+                        <div class="fecha-expira">
+                           <select name="mes" id="selectMes">
+                              <option disabled selected>Mes</option>
+                           </select>
+                        </div>
+                        <div class="fecha-expira">
+                           <select name= "Year" id="selectYear">
+                              <option disabled selected>Año</option>
+                           </select>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+      <div id="vista2">
+      <h2>Valide su tarjeta</h2>
+      <p>Por favor llene los espacios correspondientes
+         de acuerdo a los datos de su tarjeta de credito.
+      </p>
+      <img src="images/tarjeta2.png" class="tarjeta2" alt="tarjeta2">
+      <input type="button" class="boton4" id="result" value="Validar"> 
+      <input type="button" class="boton5" id="volver"  value="Regresar">  
+      <form action="ingresarDatos" method="get">
+         </form>
+      <div class="codigoCCV">
+      <label for="inputCVV">CVV</label>
+      <input type="text" id="inputCVV" maxlength="3">
+   </div>
+   </div>
+      <div id="vista3">
+         <h2>HOLA</h2>  
+         <section id="answer">
+         </section> 
+      </div>
+      <script src="script.js" type="module"></script>
+      <script src="index.js" type="module" ></script>
+      <footer> ©Copyright 2020 - by  Daniela Alejandra Vargas - Maria Angélica Urrego </footer>
+   </body>
+
 </html>
