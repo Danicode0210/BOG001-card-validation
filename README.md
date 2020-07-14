@@ -5,9 +5,10 @@
 #Nuestro proyecto se basa en la compra de tickets para un concierto que solo pueden ser pagado por medio de tarjeta de credito.
 * Investigación UX:
     Los usuarios son amantes de la musica electronica +18 que desean ir a ver a sus idolos musicales en un concierto.
-* Solucionamos esta necesidad de los usuarios vendiendoles las boletas para el concierto en un formato online de pago con tarjeta de credito.
-  Ñ
+*  Solucionamos esta necesidad de los usuarios vendiendoles las boletas para el concierto en un formato online de pago con tarjeta de credito.
+  
 
+##### `Check List` 
 UX
 - [x] Diseñar la aplicación pensando y entendiendo al usuario
 - [x] Crear prototipos para obtener feedback e iterar
