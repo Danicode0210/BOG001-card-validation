@@ -6,7 +6,7 @@
 * Investigación UX:
     Los usuarios son amantes de la musica electronica +18 que desean ir a ver a sus idolos musicales en un concierto.
 * Solucionamos esta necesidad de los usuarios vendiendoles las boletas para el concierto en un formato online de pago con tarjeta de credito.
-  
+  Ñ
 
 UX
 - [x] Diseñar la aplicación pensando y entendiendo al usuario
@@ -17,15 +17,15 @@ HTML y CSS
 - [x] Uso de selectores de CSS
 - [x] Construir tu aplicación respetando el diseño realizado (maquetación).
 DOM
- Uso de selectores de nodos del DOM
- Manejo de eventos del DOM
- Manipulación dinámica del DOM
+ - [ ] Uso de selectores de nodos del DOM
+ - [ ] Manejo de eventos del DOM
+ - [ ] Manipulación dinámica del DOM
 Javascript
  - [ ] Manipulación de strings
  - [x] Uso de condicionales
  - [ ] Uso de bucles
  - [x] Uso de funciones
- - [] Datos atómicos y estructurados
+ - [ ] Datos atómicos y estructurados
  - [x] Utilizar ES Modules (import | export).
 Testing
  - [ ] Testeo de tus funciones
