@@ -7,7 +7,7 @@ YOURTICKET.COM
 
 
 Debe contener lo siguiente:
-
+<h1>YOURTICKET.COM</h1>
 * Un título con el nombre de tu proyecto.
 * Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
 * La imagen final de tu proyecto.
@@ -35,14 +35,14 @@ DOM
  Manejo de eventos del DOM
  Manipulación dinámica del DOM
 Javascript
- - [] Manipulación de strings
+ - [ ] Manipulación de strings
  - [x] Uso de condicionales
- - [] Uso de bucles
+ - [ ] Uso de bucles
  - [x] Uso de funciones
  - [] Datos atómicos y estructurados
  - [x] Utilizar ES Modules (import | export).
 Testing
- - [x]Testeo de tus funciones
+ - [ ] Testeo de tus funciones
 Git y GitHub
 - [x] Comandos de git (add | commit | pull | status | push).
 - [x] Manejo de repositorios de GitHub (clone | fork | gh-pages).
