@@ -17,13 +17,12 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos
 *  Solucionamos esta necesidad de los usuarios vendiendoles las boletas 
 para el concierto en un formato online de pago con tarjeta de credito.
 
-
-
   # Prototipo Sketch
-<img src='Sketch1.jpeg' width='500px'>
-<img src='Sketch2.jpg'  width='500px'>
 
-##### `Check List` 
+<img  images='Sketch1.jpeg' width='500px'>
+<img images='Sketch2.jpg'  width='500px'>
+
+#### `Check List` 
 ### UX
 - [x] Diseñar la aplicación pensando y entendiendo al usuario
 - [x] Crear prototipos para obtener feedback e iterar
