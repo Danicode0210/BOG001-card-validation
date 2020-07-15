@@ -19,8 +19,8 @@ para el concierto en un formato online de pago con tarjeta de credito.
 
   # Prototipo Sketch
 
-<img  images='Sketch1.jpeg' width='500px'>
-<img images='Sketch2.jpg'  width='500px'>
+<img src='images/Sketch1.jpeg' width='500px'>
+<img src='images/Sketch2.jpg'  width='500px'>
 
 #### `Check List` 
 ### UX
