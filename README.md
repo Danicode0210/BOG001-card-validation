@@ -19,34 +19,34 @@ para el concierto en un formato online de pago con tarjeta de credito.
 
   # Prototipo Sketch
 
-   *hOLA
+
 
 ##### `Check List` 
-UX
+#### UX
 - [x] Diseñar la aplicación pensando y entendiendo al usuario
 - [x] Crear prototipos para obtener feedback e iterar
  Aplicar los principios de diseño visual
-HTML y CSS
+#### HTML y CSS
 - [x] Uso correcto de HTML semántico
 - [x] Uso de selectores de CSS
 - [x] Construir tu aplicación respetando el diseño realizado (maquetación).
-DOM
+#### DOM
  - [ ] Uso de selectores de nodos del DOM
  - [ ] Manejo de eventos del DOM
  - [ ] Manipulación dinámica del DOM
-Javascript
+#### Javascript
  - [ ] Manipulación de strings
  - [x] Uso de condicionales
  - [ ] Uso de bucles
  - [x] Uso de funciones
  - [ ] Datos atómicos y estructurados
  - [x] Utilizar ES Modules (import | export).
-Testing
+####  Testing
  - [ ] Testeo de tus funciones
-Git y GitHub
+####  Git y GitHub
 - [x] Comandos de git (add | commit | pull | status | push).
 - [x] Manejo de repositorios de GitHub (clone | fork | gh-pages).
-Buenas prácticas de desarrollo
+####  Buenas prácticas de desarrollo
  - [ ] Organizar y dividir el código en módulos (Modularización).
  - [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
  - [ ] Uso de linter para seguir buenas prácticas (ESLINT).
