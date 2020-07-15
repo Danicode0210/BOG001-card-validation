@@ -15,7 +15,7 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos
 *  Solucionamos esta necesidad de los usuarios vendiendoles las boletas 
 para el concierto en un formato online de pago con tarjeta de credito.
 
-
+<img src"./images/1.jpg">
 
   # Prototipo Sketch
    
