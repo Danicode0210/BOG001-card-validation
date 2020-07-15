@@ -19,8 +19,7 @@ para el concierto en un formato online de pago con tarjeta de credito.
 
   # Prototipo Sketch
 
-  ![What is this](./images/1jpg)
-   
+   *hOLA
 
 ##### `Check List` 
 UX
