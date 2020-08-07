@@ -1,79 +1,119 @@
 <!DOCTYPE html>
-<html lang="en">
-   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Yourticket</title>
-      <link href="style.css" rel="stylesheet" type="text/css" />
-   </head>
-   <body>
-      <div id="vista0">
-         <div>
-            <header>
-               Yourticket.com 
-            </header>
-            <img src="images/Boleta_1.jpg" class="boleta1" alt="boleta1">
-             <input type="button" class="boton1" id="Comprar1" value="Comprar" > 
-         </div>
-         <div> 
-            <img src="images/Boleta_2.jpg" class="boleta2" alt="boleta2"> 
-            <input type="submit" class="boton2" id="Comprar" value="Comprar"> 
-         </div>
-      </div>
-      <div id="vista1">
-         <h2>Valide su tarjeta</h2>
-         <p>Por favor llene los espacios correspondientes de acuerdo a los datos de su tarjeta de credito.</p>
-         <img src="images/tarjeta1.png" class="tarjeta1" alt="tarjeta1">
-         <input type="submit" class="boton3" id="validacion"  value="Continuar">
-         <form name="formtarjeta" action="" id="cc" class="formulario-tarjeta">
-            <div class="datosTarjeta">
-               <input name ="number" pattern="[0-9]+" placeholder="Numero de su tarjeta"  id="inputNumero" maxlength="19" autocomplete="off" required>
-            </div>
-            <div class="datosTarjeta">
-               <input name ="text" placeholder="Ingrese su nombre" id="inputNombre" maxlength="19" autocomplete="off" required>
-               <div class="flexbox">
-                  <div class="fechaExpira">
-                     <label for="selectMes">VALID THRU</label>
-                     <div class="flexbox">
-                        <div class="fecha-expira">
-                           <select name="mes" id="selectMes">
-                              <option disabled selected>Mes</option>
-                           </select>
-                        </div>
-                        <div class="fecha-expira">
-                           <select name= "Year" id="selectYear">
-                              <option disabled selected>Año</option>
-                           </select>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </form>
-      </div>
-      <div id="vista2">
-      <h2>Valide su tarjeta</h2>
-      <p>Por favor llene los espacios correspondientes
-         de acuerdo a los datos de su tarjeta de credito.
-      </p>
-      <img src="images/tarjeta2.png" class="tarjeta2" alt="tarjeta2">
-      <input type="button" class="boton4" id="result" value="Validar"> 
-      <input type="button" class="boton5" id="volver"  value="Regresar">  
-      <form action="ingresarDatos" method="get">
-         </form>
-      <div class="codigoCCV">
-      <label for="inputCVV">CVV</label>
-      <input type="text" id="inputCVV" maxlength="3">
-   </div>
-   </div>
-      <div id="vista3">
-         <h2>HOLA</h2>  
-         <section id="answer">
-         </section> 
-      </div>
-      <script src="script.js" type="module"></script>
-      <script src="index.js" type="module" ></script>
-      <footer> ©Copyright 2020 - by  Daniela Alejandra Vargas - Maria Angélica Urrego </footer>
-   </body>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sports</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Chau+Philomene+One:ital@0;1&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <nav id="barNav">
+         <ul>
+           <li><a href="#">INICIO</a></li>
+           <li><a href="#">SOBRE NOSOTROS</a></li>
+           <!--<div><img id="logo" src="images/musicShopLogo.png" alt="Music Shop Logo"></div>-->
+           <li><a id="actualPage" href="#">COMPRAR</a></li>
+           <li><a href="#">CONTACTO</a></li>
+         </ul>
+       </nav>
+       <div class="header"></div>
+      <div id="headerPhoto">
+       <img src="https://i.linio.com/cms/adc7b286-5d6c-11ea-a479-b6ca153e7bd2.webp" alt="banner-sports" class="banner-sports">
 
+        <img class="bannerHeader" src="https://i.linio.com/cms/b6b5c3d8-5d6c-11ea-80ab-b6ca153e7bd2.webp" alt="banner-deportes">
+      </div>
+      
+    </header>
+
+    <main>
+      <section id="instruments">
+        <h1 class="firstTitle" id=>ACCESORIOS DEPORTIVOS</h1>
+        <div id="items" class="flex-container">
+          <section id="instrument1" class="itemsToBuy">
+            <img src="https://http2.mlstatic.com/mancuernas-pesas-30kg-60lb-antideslizante-termoforradas-barr-D_NQ_NP_627876-MCO41927549879_052020-O.webp" alt="Ukelele Kalani">
+            <h1>UKELELE SOPRANO</h1>
+            <p>Kalani</p>
+            <h2>$125.000</h2>
+            <button class="button" type="button" id="btnBuy">COMPRAR</button>
+          </section>
+          <section id="instrument2" class="itemsToBuy">
+            <img src="https://dafitistaticco-a.akamaihd.net/p/sportiva-9163-979218-1-product.jpg" alt="Saxofon">
+            <h1>SAXOFON ALTO</h1>
+            <p>Conductor</p>
+            <h2>$1'375.000</h2>
+            <button class="btnDisabled" type="button" >AGOTADO</button>
+          </section>
+          <section id="instrument3" class="itemsToBuy">
+            <img src="data:image/jpeg;base64,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" alt="Ukelele Kalani">
+            <h1>PIANO DE COLA</h1>
+            <p>Harrodser</p>
+            <h2>$41'000.000</h2>
+            <button class="btnDisabled" type="button" >AGOTADO</button>
+          </section>
+        </div>
+      </section>
+
+      <section id="payment" class="flex-container hidden">
+        <section id="itemToShop" class="itemToShop">
+          <img src="images/instrumentUkelele.png" alt="Ukelele Kalani">
+          <h1>UKELELE SOPRANO</h1>
+          <p>Kalani</p>
+          <h2>$125.000</h2>
+        </section>
+        <section id="paymentMethod" class="container">
+          <h1 class="firstTitle">COMPRUEBA TU MÉTODO DE PAGO</h1>
+          <div id="creditCard" class="creditCard">
+                <div class="logoBrand">
+                  <img src="images/tc/logoVisa.png" alt="">
+                </div>
+                <div class="chip">
+                  <img src="images/tc/chip.png" alt="" class="chip">
+                </div>
+                <div id="data">
+                  <p class="dataNumber" id="dataNumber">#### #### #### ####</p>
+                </div>
+                <div id="nameExp" class="flex-container">
+                    <div id="Name">
+                      <p class="dataName" id="dataName">Nombre titular</p>
+                    </div>
+                    <div id="dataExpiration">
+                      <p class="dataExpiration"><span id="month">MM</span>/<span id="year">AA</span></p>
+                    </div>
+                </div>
+          </div>
+          <div id="formDataCard">
+            <form action="" id="formCard" class="formCard">
+              <label for="inputNumberCard">Número Tarjeta de Crédito</label>
+              <input type="text" name="cardNumber" id="inputNumberCard" minlength="16" maxlength="16" required>
+              <p id="errorValidation"></p>
+              <label for="inputName">Nombre del Titular</label>
+              <input type="text" autocomplete="off" id="inputName" required>
+              <label for="selectMonth">Fecha de expiración</label>
+                <select name="month" id="selectMonth" required>
+                    <option disabled selected>Mes</option>
+                </select>
+                <select name="year" id="selectYear" required="">
+                    <option disabled selected>Año</option>
+                </select>
+              <button id="validDataCard" type="submit" name="Validar">PAGAR</button>
+            </form>
+          </div>
+        </section>
+      </section>
+    </main>
+
+  <footer>
+    <img class="socialMediaImg" src="images/socialMail.png" alt="E-mail">
+    <p>musicshop@gmail.com</p>
+    <img class="socialMediaImg" src="images/socialPhone.png" alt="Phone">
+    <p>(+57) 316 828 2943</p>
+    <img class="socialMediaImg" src="images/socialFacebook.png" alt="Facebook">
+    <img class="socialMediaImg" src="images/socialInstagram.png" alt="Instagram">
+    <img class="socialMediaImg" src="images/socialWhatsapp.png" alt="Whatsapp">
+    <img class="socialMediaImg" src="images/socialTwitter.png" alt="Twitter">
+  </footer>
+
+  <script src="index.js" type="module"></script>
+  </body>
 </html>
