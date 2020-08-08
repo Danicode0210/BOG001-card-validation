@@ -1,6 +1,6 @@
 
 ##### `README.md`
-<p aling="center"> <img src="https://i.linio.com/cms/adc7b286-5d6c-11ea-a479-b6ca153e7bd2.webp" width="800" > </p>
+<p align="center"> <img src="https://i.linio.com/cms/adc7b286-5d6c-11ea-a479-b6ca153e7bd2.webp" width="800" > </p>
 
 # SHOP SPORTS🏀
 
@@ -17,11 +17,11 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
 *  Solucionamos esta necesidad de los usuarios vendiendoles todos los intrumentos para que formen su gimnasio en casa.
 
   # Prototipo Sketch
-<p aling="center">
+<p align="center">
 <img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/sketch1.jpeg" width="350"> 
 </p>
 
-<p aling="center">
+<p align="center">
 <img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/sketch2.jpeg" width="350"> 
 </p>
 
