@@ -1,10 +1,11 @@
 
 ##### `README.md`
 <p aling="center"> <img src="https://i.linio.com/cms/adc7b286-5d6c-11ea-a479-b6ca153e7bd2.webp" width="800" > </p>
+
 # SHOP SPORTS🏀
+
 1. Descripción del proyecto
 * El proyecto se basa en la compra de articulos deportivos  que solo pueden ser pagado por medio de tarjeta de credito.
-
 2. Investigación UX
 
 ### ¿Quiénes son los principales usuarios de producto?
