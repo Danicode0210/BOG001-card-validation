@@ -19,6 +19,8 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
   # Prototipo Sketch
 <p aling="center"><img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/sketch1.jpeg" width="350"> </p>
 
+<p aling="center"><img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/sketch2.jpeg" width="350"> </p>
+
 
 #### `Check List` 
 ### UX
