@@ -40,7 +40,7 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
  - [x] Uso de condicionales
  - [ ] Uso de bucles
  - [x] Uso de funciones
- - [ ] Datos atómicos y estructurados
+ - [x] Datos atómicos y estructurados
  - [x] Utilizar ES Modules (import | export).
 ### Testing
  - [ ] Testeo de tus funciones
