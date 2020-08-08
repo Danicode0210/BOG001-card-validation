@@ -1,7 +1,7 @@
 
 ##### `README.md`
 
-# YOURTICKET.COM
+# SHOP SPORTS🏀
 1. Descripción del proyecto
 
 * Nuestro proyecto se basa en la compra de tickets para un concierto que solo pueden ser pagado por medio de tarjeta de credito.

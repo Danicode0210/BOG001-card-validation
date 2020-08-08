@@ -5,7 +5,7 @@
 
 body{
   color: #575757;
-  font-family: Lato;
+  font-family:sans-serif;
 }
 
 main{
@@ -21,10 +21,6 @@ h2{
 font-family: Lato;
 }
 
-/*--------- ESTILOS HEADER ---------*/
-.header{
-
-}
 #headerPhoto{
  position: relative;
 background-repeat:no-repeat;
@@ -35,6 +31,7 @@ width: 1350px;
 
   background-repeat:no-repeat;
 }
+
 
 #headerPhoto h1{
 color: #FFFFFF;
@@ -50,8 +47,8 @@ color: #575757;
 
 nav{
 background-color:#00A1A1;
-min-height: 70px;
-display: flex; /*solucionó el problema(67) de centrar verticalmente(46) + horizontalmente (47)*/
+min-height: 65px;
+display: flex;
 align-items: center;
 justify-content: center;
 }
@@ -66,18 +63,23 @@ float: left;
 
 nav ul li a{
 color: #FFFFFF;
-text-align: center;
+float: left;
 padding: 20px 50px;
 text-decoration: none;
 }
 
 nav ul li a:hover{
-color: #5CEAE5;
-background-color: #7F7F7F; /*Para probar porque el tamaño está por fuera de barNav y no aplican padding 20px*/
+color:#faa556;
+ background-color:#808080; 
+ border-radius:3px;
 }
-
+.logopesa{
+  width:65px;
+  height:65px;
+  margin-right:500px;
+}
 #actualPage{
-color: #FFB801;
+color: #faa556;
 }
 
 #logo{
@@ -89,18 +91,24 @@ width: 10%;
 .firstTitle{
 font-size: 35px;
 padding: 3% 0;
-color:#008b8b;
+color:#00A1A1;
 }
 
 .flex-container {
 display: flex;
-flex-wrap: nowrap;
-justify-content: space-between;
-padding: 3% 0;
+flex-wrap:nowrap;
+justify-content:center;
+}
+.circle{
+border: 0px solid #168ccc;
 }
 
-.itemsToBuy img/*, .itemToShop img*/{
-width: 80%;
+.itemsToBuy img{
+width: 350px;
+height: 400px;
+margin: 5px 100px;
+
+
 }
 
 button {
@@ -118,11 +126,11 @@ button {
 }
 
 .button:hover{
-  background-color: #48B9B9;
+  background-color: #ff7f50;
 }
 
 .btnDisabled{
-background-color: #7F7F7F
+background-color: #7F7F7F;
 }
 
 /*--------- ESTILOS TARJERA ---------*/
@@ -130,7 +138,6 @@ background-color: #7F7F7F
 width: 90%;
 max-width: 1000px;
 margin: auto;
-/*background-color: blue;*/
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -139,7 +146,7 @@ align-items: center;
 .creditCard{
 width: 450px;
 height: 250px;
-background-color: RGBA(127,127,127,0.6);
+background-image: url(https://static.vecteezy.com/system/resources/previews/000/093/696/non_2x/vector-yellow-abstract-background.jpg);
 color: #FFFFFF;
 border-radius: 15px;
 padding: 10px 0;
