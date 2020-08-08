@@ -4,8 +4,13 @@
 
 # SHOP SPORTS🏀
 
+* [1. Descripción del proyecto](#1-Descripción-del-proyecto)
+* [2. Investigación UX](#2-Investigación-UX)
+* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
+
+
 1. Descripción del proyecto
-* El proyecto se basa en la compra de articulos deportivos  que solo pueden ser pagado por medio de tarjeta de credito.
+* El proyecto se basa en la compra de articulos deportivos  que solo pueden ser pagados por medio de tarjeta de credito.
 2. Investigación UX
 
 ### ¿Quiénes son los principales usuarios de producto?
