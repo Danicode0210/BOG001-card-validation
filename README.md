@@ -17,9 +17,8 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
 *  Solucionamos esta necesidad de los usuarios vendiendoles todos los intrumentos para que formen su gimnasio en casa.
 
   # Prototipo Sketch
+<img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/sketch1.jpeg" width="350"> 
 
-<p> <img src="https://github.com/Danicode0210/BOG001-card-validation/issues/1" width="350"> </p>
-<img src='images/Sketch2.jpg'  width='500px'>
 
 #### `Check List` 
 ### UX
@@ -32,7 +31,7 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
 - [x] Construir tu aplicación respetando el diseño realizado (maquetación).
 ### DOM
  - [ ] Uso de selectores de nodos del DOM
- - [ ] Manejo de eventos del DOM
+ - [x] Manejo de eventos del DOM
  - [ ] Manipulación dinámica del DOM
 ### Javascript
  - [ ] Manipulación de strings
