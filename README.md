@@ -8,6 +8,7 @@
 * [2. Investigación UX](#2-Investigación-UX)
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 
+***
 
 1. Descripción del proyecto
 * El proyecto se basa en la compra de articulos deportivos  que solo pueden ser pagados por medio de tarjeta de credito.
@@ -30,7 +31,9 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
 <img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/sketch2.jpeg" width="350"> 
 </p>
 
+### Prototipo (AdobeXD)
 
+## 3. Objetivos de aprendizaje
 #### `Check List` 
 ### UX
 - [x] Diseñar la aplicación pensando y entendiendo al usuario
