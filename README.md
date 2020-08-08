@@ -1,21 +1,19 @@
 
 ##### `README.md`
-
+<p aling="center"> <img src="https://i.linio.com/cms/adc7b286-5d6c-11ea-a479-b6ca153e7bd2.webp" width="350"> </p>
 # SHOP SPORTS🏀
 1. Descripción del proyecto
+* El proyecto se basa en la compra de articulos deportivos  que solo pueden ser pagado por medio de tarjeta de credito.
 
-* Nuestro proyecto se basa en la compra de tickets para un concierto que solo pueden ser pagado por medio de tarjeta de credito.
 2. Investigación UX
 
 ### ¿Quiénes son los principales usuarios de producto?
- * Los usuarios son amantes de la musica electronica +18 que desean
-     ir a ver a sus idolos musicales en un concierto con todos los espactaculos.
+ * Los usuarios son amantes de cuidar su salud fisica mediante la ejercitación , y que desean desde la comodidad de su hogar adquirir productos que les ayuden a sus necesidades al momento de realizar ejercicio.
 ### ¿Cuáles son los objetivos de estos usuarios en relación con tu producto?
-* Los usuarios podran acceder via internet a adquirir su boleta 
-sin necesidad de filas ni tramites largos solo llenando unos pequeños datos
+* Los usuarios podran acceder via internet a adquirir sus accesorios deportivos 
+sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de su tarjeta de credito.
 ### ¿Cómo crees que el producto que estás creando está resolviendo sus problemas?
-*  Solucionamos esta necesidad de los usuarios vendiendoles las boletas 
-para el concierto en un formato online de pago con tarjeta de credito.
+*  Solucionamos esta necesidad de los usuarios vendiendoles todos los intrumentos para que formen su gimnasio en casa.
 
   # Prototipo Sketch
 
