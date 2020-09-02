@@ -1,4 +1,5 @@
 *{
+  box-sizing: border-box;
   margin:0;
   padding:0;
 }
@@ -22,13 +23,12 @@ font-family: Lato;
 }
 
 #headerPhoto{
- position: relative;
+  position: relative;
 background-repeat:no-repeat;
 
 }
 .banner-sports{
 width: 1350px;
-
   background-repeat:no-repeat;
 }
 
@@ -38,9 +38,7 @@ color: #FFFFFF;
 font-size: 45px;
 text-align: center;
 }
-.bannerHeader{
-  position: reltive;
-}
+
 #headerPhoto span{
 color: #575757;
 }
@@ -107,9 +105,8 @@ border: 0px solid #168ccc;
 width: 350px;
 height: 400px;
 margin: 5px 100px;
-
-
 }
+
 
 button {
   background-color: #00A1A1;
@@ -130,10 +127,10 @@ button {
 }
 
 .btnDisabled{
-background-color: #7F7F7F;
+background-color: #00A1A;
 }
 
-/*--------- ESTILOS TARJERA ---------*/
+/*--------- ESTILOS TARJETA---------*/
 .container{
 width: 90%;
 max-width: 1000px;
@@ -209,20 +206,18 @@ border-radius: 5px;
 /*--------- ESTILOS FOOTER ---------*/
 footer{
 background-color: #575757;
-margin-top: 2%;
+min-height: 65px;
 color: #FFFFFF;
 display: flex;
 align-items: center;
-justify-content: center;
+justify-content: space-around;
 }
 
-.socialMediaImg{
-height: 3%;
-width: 3%;
-margin: 1%;
-}
+
+
 
 /*--------- ESTILOS DOM > JS ---------*/
 .hidden {
 display: none;
+
 }
