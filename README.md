@@ -2,7 +2,6 @@
 <p align="center"> <img src="https://i.linio.com/cms/adc7b286-5d6c-11ea-a479-b6ca153e7bd2.webp" width="800" > </p>
 
 # SHOP SPORTS🏀
-
 * [1. Descripción del proyecto](#1-Descripción-del-proyecto)
 * [2. Investigación UX](#2-Investigación-UX)
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
@@ -31,6 +30,13 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
 </p>
 
 ### Prototipo (AdobeXD)
+
+<p align="center">
+<img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/sketch2.jpeg" width="350"> 
+</p>
+
+### Prototipo funcional
+
 
 ## 3. Objetivos de aprendizaje
 #### `Check List` 
