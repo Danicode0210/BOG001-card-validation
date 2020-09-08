@@ -31,12 +31,12 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
 
 ### Prototipo (AdobeXD)
 
+
+
+# Prototipo funcional
 <p align="center">
-<img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/sketch2.jpeg" width="350"> 
+<img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/gifFuncionalidad.gif" width="350"> 
 </p>
-
-### Prototipo funcional
-
 
 ## 3. Objetivos de aprendizaje
 #### `Check List` 
