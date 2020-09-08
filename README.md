@@ -31,11 +31,16 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
 
 ### Prototipo (AdobeXD)
 
-
+<p align="center">
+<img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/Print1.png" width="350"> 
+</p>
+<p align="center">
+<img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/Print2.png" width="350"> 
+</p>
 
 # Prototipo funcional
 <p align="center">
-<img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/gifFuncionalidad.gif" width="350"> 
+<img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/gifFuncionalidad.gif" width="500"> 
 </p>
 
 ## 3. Objetivos de aprendizaje
@@ -65,6 +70,6 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
 - [x] Comandos de git (add | commit | pull | status | push).
 - [x] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 ### Buenas prácticas de desarrollo
- - [ ] Organizar y dividir el código en módulos (Modularización).
- - [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
- - [ ] Uso de linter para seguir buenas prácticas (ESLINT).
+ - [x] Organizar y dividir el código en módulos (Modularización).
+ - [x] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+ - [x] Uso de linter para seguir buenas prácticas (ESLINT).
