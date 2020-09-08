@@ -40,7 +40,7 @@ sin necesidad de filas ni tramites largos solo llenando unos pequeños datos de 
 
 # Prototipo funcional
 <p align="center">
-<img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/gifFuncionalidad.gif" width="500"> 
+<img src="https://github.com/Danicode0210/BOG001-card-validation/blob/master/src/images/gifFuncionalidad.gif" width="700"> 
 </p>
 
 ## 3. Objetivos de aprendizaje
